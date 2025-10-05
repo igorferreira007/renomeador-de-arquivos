@@ -29,8 +29,11 @@ Siga os passos abaixo para executar o script:
 
 1. Clone o repositório  
 ```https://github.com/igorferreira007/renomeador-de-arquivos.git```   
-2. Abra o terminal (CMD, PowerShell ou outro de sua preferência)  
-3. Navegue até a pasta onde o script foi salvo  
+2. Abra o terminal (CMD, PowerShell ou outro de sua preferência)
+3. Edite o caminho da pasta no script:  
+  Substitua a linha abaixo pelo caminho da pasta onde estão seus arquivos:  
+  ```pasta = "C:\Users\Igor\dwhelper"```
+4. Navegue até a pasta onde o script foi salvo  
 ```cd caminho/para/a/pasta```  
-4. Execute o script com o comando:  
+5. Execute o script com o comando:  
 ```python nome_do_arquivo.py```
